@@ -19,7 +19,7 @@ A Flask-based web application that predicts diseases based on selected symptoms 
 1. **Clone the repo**:
 
    ```bash
-   https://github.com/rishabh3562/Disease-Prediction.git
+   https://github.com/KARTIKEYMX/Disease-Prediction.git
    ```
 
 2. **Create and activate virtual environment**:
@@ -59,10 +59,10 @@ A Flask-based web application that predicts diseases based on selected symptoms 
 
 ## 👨‍💻 Developer
 
-* **Name**: Rishabh Dubey
+* **Name**: KARTIKEY MISHRA 
 * **Tech Stack**: Python, Flask, Tailwind CSS
-* **GitHub**: [github.com/rishabh3562](https://github.com/rishabh3562)
-* **Email**: [dubeyrishabh108@gmail.com](mailto:dubeyrishabh108@gmail.com)
+* **GitHub**: [github.com/KARTIKEMX](https://github.com/KARTIKEYMX)
+* **Email**:kartikeymvx@gmail.com](mailto:kartikeymvx@gmail.com)
 
 ---
 
